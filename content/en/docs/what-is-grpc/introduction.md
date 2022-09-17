@@ -14,7 +14,7 @@ If you just want to dive in and see gRPC in action first,
 
 ## Overview
 
-In gRPC, a client application can directly call a method on a server application
+In gRPC (Google Remote Procedure Call), a client application can directly call a method on a server application
 on a different machine as if it were a local object, making it easier for you to
 create distributed applications and services. As in many RPC systems, gRPC is
 based around the idea of defining a service, specifying the methods that can be
